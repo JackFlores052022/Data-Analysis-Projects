@@ -22,8 +22,3 @@ Sistema de reportes y análisis para monitoreo de:
 - `/SQL-Queries/` - Consultas SQL principales
 - `/Stored-Procedures/` - Procedimientos almacenados
 - `/Documentation/` - Documentación técnica
-```
-
-### 1.3 - Mensaje de commit:
-```
-Add AloContact project README
