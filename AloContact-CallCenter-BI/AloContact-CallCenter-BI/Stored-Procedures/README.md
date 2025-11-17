@@ -38,8 +38,4 @@ El sistema utiliza dos stored procedures complementarios:
 - `ticket` - Registro de llamadas
 - `client` - Información de clientes
 - `SumarizadoLlamadas` - Tabla de métricas consolidadas
-```
 
-4. **Mensaje de commit:**
-```
-Add stored procedures documentation
